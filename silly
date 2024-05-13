@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> YOUR headspace. </title>
+<link href='https://fonts.googleapis.com/css?family=Playfair Display' rel='stylesheet'>
+</head>
+<style>
+element {
+  overflow: scroll;  /* Add a scrollbar if content is too large */
+  overflow-y: auto; /* Add a vertical scrollbar if content is too large */
+}
+body { background-color: black;}
+.help { font-family:"Playfair Display"; Font-size: 20px; color: white; margine-top: 9px; text-align: left;}
+h1 { font-family: "Playfair Display"; font-size: 25px; color: white; margine-top: 9px; text-align: center;}
+</style>
+<body>
+<a href="https://www.youtube.com/watch?v=LKFocorJmEU&ab_channel=Dynzzdrasil">
+<img src="C:\Users\LENOVO\Pictures\HERE\vee.webp"
+width=150px; 
+height=50px; 
+style="opacity: 0; position: absolute; left:410px; top:120px;"></a>
+<audio controls>
+<source src="C:\Users\LENOVO\Downloads\Sounds\y2mate.com - Outlook Unavailable REGRETEVATOR OST.mp3" type=audio/mpeg>
+<source src="C:\Users\LENOVO\Downloads\Sounds\y2mate.com-Outlook-Unavailable-REGRETEVATOR-OST.ogg" type=audio/ogg>
+Your browser does not support the audio tag, Please continue scrolling.
+</audio>
+<h1 class="help"> click on the play button for audio!! </h1.help>
+<h1> All of the hammers i kept still function as they would've. <br> But i believe they've lived long enough to be put on display. <br>
+They do carry some.. history. <br>  ..However I'd rather not get into the details.<br>
+The only thing I'll say is that I'm glad i left after 20 months. </h1>
+<a href="https://id.wikipedia.org/wiki/Nostalgia"><img src="C:\Users\LENOVO\Pictures\HERE\pee.png" width=300px height=350px; style="position: absolute; left:38%; top:30%%;"></a>
+<h1 style="position: absolute; top: 650px; left: 20%">Maybe I can ask my employer for his expedition logs.<br>
+For some reason.. I keep seeing things. <br> Even after i exited the lobby. <br> Then again.. <br> I wonder what door he went to in order to make a scarf so... comfortable.  </h1>
+
+</body>
+</html>
